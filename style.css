@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    justify-content: space-between;
+    margin-bottom: -19px;
+}
+
+ul {
+    display:flex;
+    list-style-type: none;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.first {
+    background-color: #1F2937;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+}
+
+.awesome {
+    display: flex;
+    flex-direction: column;
+}
+
+.placeholder img {
+    width: 400px;
+    height: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
